@@ -32,7 +32,7 @@ This theme has the following package dependencies:
 
 1. Install zsh
 2. Install oh-my-zsh
-3. Install Powerline-patched font
+3. Install [Powerline-patched font](https://github.com/powerline/fonts)
 4. Check if the font is installed properly
 ![prompt_segment_icons](https://github.com/jinseobhong/eleastic-zsh-theme/blob/master/assets/prompt_segment_icons.png)
 5. Edit ./zshrc
