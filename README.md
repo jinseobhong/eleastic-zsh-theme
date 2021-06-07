@@ -34,7 +34,7 @@ This theme has the following package dependencies:
 2. Install oh-my-zsh
 3. Install Powerline-patched font
 4. Check if the font is installed properly
-![prompt_segment_icons](https://github.com/jinseobhong/elastic-zsh-theme/blob/master/assets/prompt_segment_icons.png)
+![prompt_segment_icons](https://github.com/jinseobhong/eleastic-zsh-theme/blob/master/assets/prompt_segment_icons.png)
 5. Edit ./zshrc
 6. Clone this repository in $ZSH_CUSTOM/themes
 7. SET DEFAULT SHELL FOR root
