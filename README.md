@@ -37,7 +37,7 @@ This theme has the following package dependencies:
 ![prompt_segment_icons](https://github.com/jinseobhong/eleastic-zsh-theme/blob/master/assets/prompt_segment_icons.png)
 5. Edit ./zshrc
 6. Clone this repository in $ZSH_CUSTOM/themes
-7. SET DEFAULT SHELL FOR root
+7. Set default shell for root
 
 # Customize your prompt
 By default prompt has these segments: `setStatusPromptSegment`, `setPromptSegmentContext`, `setVirtualenvPromptSegment`, `setDirPromptSegment`, `setVcsPromtSegment`, `setEndOfPromptSegment` in that particular order.
